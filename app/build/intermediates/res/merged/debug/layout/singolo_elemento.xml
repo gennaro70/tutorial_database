@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        
+    <TextView 
+        android:id="@+id/testo_nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome"
+        android:textSize="15sp"/>
+    
+    <TextView 
+        android:id="@+id/record_nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0000ff"/>
+    
+    </TableRow>
+    
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+    
+    <TextView 
+        android:id="@+id/testo_cognome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cognome"
+        android:textSize="15sp"/>
+    
+    <TextView 
+        android:id="@+id/record_cognome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0000ff"/>
+    
+    </TableRow>
+    
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+    
+    <TextView 
+        android:id="@+id/testo_telefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/telefono"
+        android:textSize="15sp"/>
+    
+    <TextView 
+        android:id="@+id/record_telefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0000ff"/>
+    
+    </TableRow>
+    
+    <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+    
+    <TextView 
+        android:id="@+id/testo_cellulare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cellulare"
+        android:textSize="15sp"/>
+    
+    <TextView 
+        android:id="@+id/record_cellulare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0000ff"/>
+    
+    </TableRow>
+    
+     <TableRow 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+    
+    <TextView 
+        android:id="@+id/testo_mail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mail"
+        android:textSize="15sp"/>
+    
+    <TextView 
+        android:id="@+id/record_mail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#0000ff"/>
+    
+    </TableRow>
+    
+    <TextView 
+        android:id="@+id/record_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="20sp"
+        android:textColor="#ff0000"/>
+    
+
+</LinearLayout>

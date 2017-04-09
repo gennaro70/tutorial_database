@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial Database</string>
+    <string name="scarica">Aggiorna/Scarica Applicazioni</string>
+    <string name="info_app">Informazioni App</string>
+    <string name="text_inserisci">Inserire Dati</string>
+    <string name="descr_inserisci">Cliccare sul button per inserire i dati nel database.</string>
+    <string name="text_visualizza">Visualizza Dati</string>
+    <string name="descr_visualizza">Cliccare sul button per visualizzare i dati del database.</string>
+    <string name="text_cancella">Cancella Dati</string>
+    <string name="descr_cancella">Cliccare sul button per cancellare dati dal database.</string>
+    <string name="promemoria_cancella">Cliccare sul Contatto che volete cancellare.</string>
+    <string name="img">image</string>
+    <string name="text_elementi">Inserisci Contatto nella Rubrica</string>
+    <string name="salva">Salva Dati</string>
+    <string name="nome">Nome :</string>
+    <string name="cognome">Cognome :</string>
+    <string name="telefono">Telefono :</string>
+    <string name="cellulare">cellulare :</string>
+    <string name="mail">Mail :</string>
+
+</resources>

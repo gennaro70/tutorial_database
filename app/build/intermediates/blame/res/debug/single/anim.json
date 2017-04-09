@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/anim/abc_slide_in_top.xml"
+    }
+]

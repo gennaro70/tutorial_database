@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gennaro70/AndroidStudioProjects/TutorialDatabase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/gennaro70/.android/build-cache/218b0c8e0ab1ba922d825cd8b7b7080fddaad947/output/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]
